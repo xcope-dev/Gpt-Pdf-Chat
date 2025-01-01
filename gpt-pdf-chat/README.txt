@@ -21,6 +21,14 @@ GPT PDF Chat to wtyczka do WordPressa, która umożliwia zalogowanym użytkownik
 3. Przejdź do **Ustawienia > GPT PDF Chat** i wprowadź swój klucz API OpenAI.
 4. Dodaj shortcode `[gpt_pdf_chat]` do dowolnej strony lub wpisu, aby wyświetlić okienko chatu.
 
+== Biblioteka ==
+
+Wykorzystana biblioteka 'PdfParser' url: https://github.com/smalot/pdfparser
+
+== Oopenai ==
+
+Do działania wtyczki potrzebny jest klucz API ChatGPT. Zaloguj się albo załóż konto https://platform.openai.com/api-keys
+
 == Changelog ==
 
 = 1.0 =

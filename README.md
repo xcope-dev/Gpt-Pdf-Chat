@@ -1,5 +1,5 @@
 
-Contributors: twoje-imie
+Contributors: Xcope
 Tags: chat, AI, OpenAI, PDF
 Requires at least: 5.0
 Tested up to: 6.2
